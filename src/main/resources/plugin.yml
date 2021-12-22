@@ -1,0 +1,4 @@
+name: ExamplePlugin
+version: '${project.version}'
+main: com.aaronduran.exampleplugin.ExamplePlugin
+api-version: 1.18
